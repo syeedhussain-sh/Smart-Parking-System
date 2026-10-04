@@ -111,7 +111,7 @@ The `Videos` folder contains demonstrations of the completed system under differ
 
 ## Project Structure
 
-text
+```text
 Smart-Parking-System/
 │
 ├── Code/
@@ -138,7 +138,6 @@ Smart-Parking-System/
 │   └── 03_Full_Condition.mp4
 │
 └── README.md
-
 Future Improvements
 The current prototype can be further improved by adding:
 Multiple ultrasonic sensors for multiple parking slots
