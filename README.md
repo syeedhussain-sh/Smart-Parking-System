@@ -111,7 +111,7 @@ The `Videos` folder contains demonstrations of the completed system under differ
 
 ## Project Structure
 
-```text
+text
 Smart-Parking-System/
 │
 ├── Code/
@@ -139,7 +139,7 @@ Smart-Parking-System/
 │
 └── README.md
 
-Future Improvement
+Future Improvements
 The current prototype can be further improved by adding:
 Multiple ultrasonic sensors for multiple parking slots
 Automatic vehicle entry and exit detection
@@ -150,9 +150,11 @@ Real-time parking-slot availability updates
 Automated parking management
 Data logging for parking usage
 Integration with a larger smart-city parking system
+
 Project Status
 Completed and Tested
 The current prototype successfully detects a monitored parking zone as FREE or FULL and provides LCD, LED, buzzer, and Serial Monitor indications.
+
 Author
 Syed Hussain SH
 B.E. Electronics and Communication Engineering
