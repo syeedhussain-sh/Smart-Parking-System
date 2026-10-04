@@ -138,7 +138,8 @@ Smart-Parking-System/
 │   └── 03_Full_Condition.mp4
 │
 └── README.md
-Future Improvements
+
+Future Improvement
 The current prototype can be further improved by adding:
 Multiple ultrasonic sensors for multiple parking slots
 Automatic vehicle entry and exit detection
